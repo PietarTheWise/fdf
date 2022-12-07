@@ -4,6 +4,9 @@
   <br>
 </h1>
 
+<div align="center">
+  <img src="screenshots/42_cropped_fdf.gif"></img>
+</div>
 
 <h3 align="center">Wireframe graphics rendering with bresenham line drawing algorithm.</h3>
 
@@ -24,6 +27,12 @@
 * You can rotate the object by holding the <kbd>left mouse button</kbd> and moving the mouse.
 * The arrowkeys <kbd>up</kbd> and <kbd>down</kbd> increases and decreases the elevation
 * By pressing the key <kbd>p</kbd> you can toggle between different perspectives.
+
+
+## Supports larger files as well
+
+
+<img src="screenshots/cropped_fdf.gif"></img>
 
 
 ## How To Use
