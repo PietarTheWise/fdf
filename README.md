@@ -11,13 +11,13 @@
 <h3 align="center">Wireframe graphics rendering with bresenham line drawing algorithm.</h3>
 
 <p align="center">
-  <a href="#what-it-does">What it does?</a> •
+  <a href="#what-does-it-do">What does it do?</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#disclaimer">Disclaimer</a>
 </p>
 
 
-## What it does?
+## What does it do?
 
 * Presents different wireframes as isometric objects.
 * You can zoom in and rotate the objects.
